@@ -1,13 +1,13 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm+Sonal!+🦈;Nice+to+meet+you!+🙂&center=true&size=30&color=29d2a">
 </h1>
-<h3 align="center">A Front End Developer.</h3>
+<h3 align="center">Front End Developer.</h3>
 
 <p align="center">I'm a a passionate front-end developer, web developer, and UI-UX enthusiast. I find joy in crafting seamless user experiences and bringing web applications to life through creative design.</p>
 
 <img align="right" width="470px" height="300px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
-- 👨🏽‍💻   **Front End Developer**
+- 👨🏽‍💻   Check out my **[Behance](https://www.behance.net/sonalsengar)** profile. 
 
 - 👥   I'm open to collaborations and work. Feel free to reach out to me if you have a project you'd like me on.
 
@@ -15,7 +15,7 @@
 
 - 🗓   I enjoy working with technologies like **HTML, CSS, and React**.
 
-- 💻   You can view all **my projects** by clicking on this [link](https://github.com/ssengar13?tab=repositories). Feel free to open an issue in any project if you spot a bug and I will try to fix it as soon as possible.
+- 💻   You can view all **my projects** [here](https://github.com/ssengar13?tab=repositories). Feel free to open an issue in any project if you spot a bug and I will try to fix it as soon as possible.
 
 </br>
  
