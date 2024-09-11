@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm+Sonal!+🦈;Nice+to+meet+you!+🙂&center=true&size=30&color=29d2a">
 </h1>
-<h3 align="center">Front End Developer / UI-UX Developer</h3>
+<h3 align="center">Front End Developer / UI-UX Developer / Website Development</h3>
 
 <p align="center">I'm a a passionate front-end developer, web developer, and UI-UX enthusiast. I find joy in crafting seamless user experiences and bringing web applications to life through creative design.</p>
 
