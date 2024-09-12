@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">Front End Developer / UI-UX Developer / Website Development</h3>
 
-<p align="center">I'm a a passionate front-end developer, web developer, and UI-UX enthusiast. I find joy in crafting seamless user experiences and bringing web applications to life through creative design.</p>
+<p align="center">I'm a passionate front-end developer, web developer, and UI-UX enthusiast. I find joy in crafting seamless user experiences and bringing web applications to life through creative design.</p>
 
 <img align="right" width="470px" height="300px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
