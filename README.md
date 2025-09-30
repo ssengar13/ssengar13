@@ -11,7 +11,7 @@
 
 - 👥   I'm open to collaborations and work. Feel free to reach out to me if you have a project you'd like me on.
 
-- 🌐   Check out **my portfolio**: [Portfolio](https://ssengar13.github.io/portfolio/)
+- 🌐   Check out **my portfolio**: [Portfolio](https://portfolio-delta-khaki-96.vercel.app/)
 
 - 🗓   I enjoy working with technologies like **HTML, CSS, and React**.
 
